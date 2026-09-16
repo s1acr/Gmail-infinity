@@ -18,6 +18,12 @@
 
 # 🏭 Gmail Infinity Factory 2026
 
+<a href="https://buymeacoffee.com/tareqshadow" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+       alt="Buy Me a Coffee"
+       style="height: 45px !important;width: 162px !important;">
+</a>
+
 **The most powerful and stealthiest Gmail account automation engine of 2026**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://python.org)
