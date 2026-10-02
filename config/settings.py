@@ -38,6 +38,10 @@ class Config:
     GETSMS_API_KEY = os.getenv("GETSMS_API_KEY", "")
     GETSMS_COUNTRY = os.getenv("GETSMS_COUNTRY", "us")
 
+    # HeroSMS
+    HEROSMS_API_KEY = os.getenv("HEROSMS_API_KEY", "")
+    HEROSMS_COUNTRY = os.getenv("HEROSMS_COUNTRY", "0")  # 0 = any country
+
     # ═══════════════════════════════════════════════════════════════
     #                  CAPTCHA SERVICES
     # ═══════════════════════════════════════════════════════════════
