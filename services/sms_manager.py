@@ -98,6 +98,7 @@ async def finish_order(service_name: str, order_id: str):
             'sms_activate': _finish_sms_activate_order,
             'onlinesim':    None,
             'getsms':       _finish_getsms_order,
+            'herosms':      _finish_herosms_order,
         }.get(service_name)
 
         if finish_fn:
